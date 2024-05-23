@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "delaunay_triangulation", "delaunay_triangulation.vcxproj", "{813FEE27-C845-48D5-9D64-3DB200C7C373}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{813FEE27-C845-48D5-9D64-3DB200C7C373}.Debug|x64.ActiveCfg = Debug|x64
+		{813FEE27-C845-48D5-9D64-3DB200C7C373}.Debug|x64.Build.0 = Debug|x64
+		{813FEE27-C845-48D5-9D64-3DB200C7C373}.Debug|x86.ActiveCfg = Debug|Win32
+		{813FEE27-C845-48D5-9D64-3DB200C7C373}.Debug|x86.Build.0 = Debug|Win32
+		{813FEE27-C845-48D5-9D64-3DB200C7C373}.Release|x64.ActiveCfg = Release|x64
+		{813FEE27-C845-48D5-9D64-3DB200C7C373}.Release|x64.Build.0 = Release|x64
+		{813FEE27-C845-48D5-9D64-3DB200C7C373}.Release|x86.ActiveCfg = Release|Win32
+		{813FEE27-C845-48D5-9D64-3DB200C7C373}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {249B0A1E-F1D7-4817-B79A-76A2A9DC9861}
+	EndGlobalSection
+EndGlobal
